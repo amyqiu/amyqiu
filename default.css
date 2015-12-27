@@ -156,7 +156,7 @@
 	.major
 	{
 		overflow: hidden;
-		margin-bottom: 3em;
+		margin-bottom: 1em;
 		text-align: center;
 	}
 	
@@ -174,7 +174,7 @@
 		display: block;
 		padding-top: 0.2em;
 		font-weight: 300;
-		font-size: 2em;
+		font-size: 1.5em;
 	}
 
 /*********************************************************************************/
