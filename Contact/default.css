@@ -157,13 +157,12 @@
 	{
 		overflow: hidden;
 		margin-bottom: 1em;
-		margin-top: 0em;
+		margin-top: 1em;
 		text-align: center;
 	}
 	
 	.major h2
 	{
-		margin-top: 0em;
 		letter-spacing: 0.10em;
 		text-transform: uppercase;
 		font-size: 2em;
@@ -174,6 +173,7 @@
 	.major .byline
 	{
 		display: block;
+		padding-top: 0.2em;
 		font-weight: 300;
 		font-size: 1.5em;
 	}
@@ -350,7 +350,6 @@
 	#content h2
 	{
 		font-size: 2em;
-		margin-top: 0em;
 	}
 	
 	#content .byline
