@@ -156,7 +156,7 @@
 	.major
 	{
 		overflow: hidden;
-		margin-bottom: 4em;
+		margin-bottom: 3em;
 		text-align: center;
 	}
 	
@@ -348,7 +348,7 @@
 	
 	#content h2
 	{
-		font-size: 3em;
+		font-size: 2em;
 	}
 	
 	#content .byline
